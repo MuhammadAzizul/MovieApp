@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="app_title_movie">Now Playing Movie</string>
+    <string name="app_title_tvshow">Tv Show Airing Today</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_highlight">Image Highlight</string>
+    <string name="lb_description">Description</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
